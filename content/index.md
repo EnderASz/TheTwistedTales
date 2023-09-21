@@ -2,5 +2,4 @@
 title: The Twisted Tales
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Skorzystaj z `Explorer` lub wyszukiwarki, aby wyszukać odpowiednią notatkę.
