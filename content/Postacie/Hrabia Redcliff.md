@@ -1,0 +1,1 @@
+Jeden z szlachciców zamieszkujących w swojej posiadłości niedaleko [[Vans]] oraz mający tam swoją siedzibę.

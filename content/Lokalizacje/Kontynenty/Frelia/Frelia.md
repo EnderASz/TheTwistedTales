@@ -1,0 +1,1 @@
+Prawdopodobnie największy z kontynentów na Ziemii, zajmujący środkowo północny oraz wschodnio-północny obszar [[Mapa świata|mapy świata]].

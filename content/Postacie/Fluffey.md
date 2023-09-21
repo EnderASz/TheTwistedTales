@@ -1,0 +1,1 @@
+Zwierzak należący do [[Ichada|Ichady]]. Alke.
