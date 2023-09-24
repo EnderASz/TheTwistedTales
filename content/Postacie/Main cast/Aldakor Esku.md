@@ -17,6 +17,6 @@ Aldakor nie wiedział skąd, ani kiedy przybył do Vans, a tym szczególniej ani
 - "Ty dobrze mi, ja dobrze tobie - ale na następny raz i tak cię ojebie xd"
 - "Dobry smak? Masz namyśli, te plamy krwi na ziemii? Mniam ^^ O! Żygłeś. Nie może się zmarnować ;)"
 - "Świat jest okropny, ale dalej może zapewniać świetną zabawę"
-- Sentymentalny do starych dobrych znajomości, choć nie ubolewający nad ich brakiem (Leena Laun). Chętnie by powtórzył pewne epizody z przeszłości
+- Sentymentalny do starych dobrych znajomości, choć nie ubolewający nad ich brakiem (np. [[Leena Laun]]). Chętnie by powtórzył pewne epizody z przeszłości
 - Brak twardego systemu moralnego. Decyzje w tych kategoriach podejmowane są na bazie zupełnie innych czynników.
 - "Naprawdę szkoda by było stracić dobrego aktora, wnoszącego nową formę rozrywki do odgrywanej sztuki"
