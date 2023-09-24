@@ -1,1 +1,2 @@
+![[Kian.png]]
 "I don’t pay attention to the risks in a situation. Never tell me the odds. I don't talk because I can't, literally, I can't talk. Some people told me that I act like a moody teenager, I think they are just trying to assult me. I mostly can find a way out of any situation. I’m loyal to my brotherhood, not to any ideals, and everyone else can take a trip down the Styx for all I care. Something important was taken from me, and I aim to steal it back. If there’s a plan, I’ll forget it. If I don’t forget it, I’ll ignore it."
