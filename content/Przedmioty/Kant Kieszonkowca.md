@@ -3,6 +3,7 @@
 
 - Właściciel: [[Aldakor Esku]]
 
+![[Kant_Kieszonkowca.jpg]]
 ## Kanciarski Chwyt.
 Gdy masz ubrany Kant Kieszonkowca, otrzymujesz dostęp do cantripu Mage Hand. Dodatkowo możesz sprawić, aby Mage Hand stał się niewidzialny.
 
