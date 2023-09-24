@@ -9,8 +9,14 @@ Aby pomóc w tworzeniu niniejszej zawartości sklonuj i wypychaj zmiany do tego 
 Jeśli wiesz co robisz, możesz spróbować edytować również pozostałe części repozytorium.
 
 Jeśli chcesz sprawdzić lokalnie, jak będą wyglądać twoje zmiany po ich wypchnięciu upewnij się, że posiadasz zainstalowanego [NodeJS](https://nodejs.org/) w wersji conajmniej **v18.14**, a następnie uruchom poniższe polecenie w katalogu repozytorium.
-```bash
-npx quartz build --serve
+```
+> npx quartz build --serve
 ```
 
-> [!tip] Po uruchomieniu lokalnego serwera, zawartość pojedynczych stron zwykle odświeża się automatycznie.
+> [!caution] Pierwsze uruchomienie
+> Przy pierwszym uruchomieniu, należy uprzednio wykonać polecenie `npm install`.
+
+> [!tip] Auto-refresh
+> Po uruchomieniu lokalnego serwera, zawartość pojedynczych stron zwykle odświeża się automatycznie.
+> > [!caution] Pliki zagnieżdżone
+> > Nie dotyczy to zagnieżdżonych plików. Aby te wyświetlały się w sposób poprawny należy ponownie wykonać polecenie `npx quartz build --serve`

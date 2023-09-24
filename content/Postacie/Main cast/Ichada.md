@@ -1,0 +1,2 @@
+![[Ichada.jpg]]
+Bnuy

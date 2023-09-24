@@ -6,3 +6,5 @@ WchodzÄ…c do [[Bar Illeasa|Baru Illeasa]], [[Aldakor Esku|Aldakor]] rozlicza siÄ
 
 ## "Znowu ty?"
 [[Lilin]] [[Aalynn (Ejlin)]] [[Melifal]]
+
+![[Drzewo_Przodkow.jpg]]
