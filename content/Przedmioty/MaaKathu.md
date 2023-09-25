@@ -1,0 +1,3 @@
+- Właściciel: [[Ichada]]
+
+![[MaaKathu.jpg]]

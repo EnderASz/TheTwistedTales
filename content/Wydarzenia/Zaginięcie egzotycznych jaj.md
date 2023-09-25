@@ -7,4 +7,5 @@ Nagle jeden z podróżników zdejmuje swoją torbę i otwiera ją pokazując kap
 [[Aldakor Esku|Aldakorowi]] udaje się skryć na pewien czas w pobliskiej kaplicy, podpalając po drodze jeden z domów naprzeciw niego aby odwrócić uwagę pobliskiej ludności, choć mimo jego starań okazuję się, że nie wszyscy poddali się temu zabiegowi, gdyż do kościoła wkracza [[Ichada|królicza postać]] również mająca ewidentnie za cel przejęcie ledwo co ukradzionego towaru, a niedługo za nią, zdecydowanie większa grupa osób mających ewidentnie ten sam zamiar. Po dosyć krótkiej walce, jednemu z nich udaje się uciec wraz z torbą jajek, a w pomieszczeniu zostaje tylko [[Aldakor Esku|szlam]] i [[Ichada|królik]] mając za jeńca jednego z mocno poobijanych złodzieji.
 Dzięki charyzmatyczności [[Aldakor Esku|Aldakora]] i pozostawieniu przy życiu tego niedobitka, udaje się uzyskać informację dotyczącą prawdopodobnej lokalizacji jaj, po które nowo zebrany duet udał się jak najszybciej.
 
-> Ciąg dalszy: [[Zabójstwo Krwawego Joe]]
+>[!tip] Ciąg dalszy
+>[[Zabójstwo Krwawego Joe]]

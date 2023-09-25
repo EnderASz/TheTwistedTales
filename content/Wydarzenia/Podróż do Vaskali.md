@@ -1,4 +1,7 @@
-Aldakorowi i [[Tokk]] podczas swojej podróży udało się znaleźć wskazówkę dotyczącą tajemniczej czarnej mapy, którą [[Tokk]] w zwyczaju nosi pod swoją czapką. Owy trop prowadzi was gdzieś na [[Vaskala|Vaskalę]], krainę wiecznej zmarzliny. Siejąc okazionalny chaos po drodze dotarliście na południe [[Królestwo Felnell|Felnell]], gdzie macie zamiar znaleźć statek który może zabrać was na [[Vaskala|Vaskalę]].
+>[!tip] Poprzednie
+>[[Czarna mapa - zlecenie]]
+
+[[Aldakor Esku|Aldakorowi]] i [[Tokk]] podczas swojej podróży udało się znaleźć wskazówkę dotyczącą tajemniczej czarnej mapy, którą [[Tokk]] w zwyczaju nosi pod swoją czapką. Owy trop prowadzi was gdzieś na [[Vaskala|Vaskalę]], krainę wiecznej zmarzliny. Siejąc okazionalny chaos po drodze dotarliście na południe [[Królestwo Felnell|Felnell]], gdzie macie zamiar znaleźć statek który może zabrać was na [[Vaskala|Vaskalę]].
 
 Zostało im jednak jeszcze kilka dni podróży przez dzikie lasy [[Królestwo Felnell|Felnell]] zanim dotrą do miasta portowego, a [[Tokk]] znowu zaczyna się niecierpliwić. Nagle nudę [[Tokk]], i rosnącą niecierpliwość [[Aldakor Esku|Aldakora]] przerywa grupa wydawało by się zwykłych urzędujących w lasach bandytów, choć jak się później okazało nie byli oni tam z przypadku, gdyż należeli oni do [[Krwiopijcy|Krwiopijców]]. Jak się [[Aldakor Esku|Aldakor]] wraz z [[Kian'Verion|Kianem]] (który dołączył do wydarzenia) zorientowali, w czasie walki zniknęła [[Tokk]], a zamiast niej zjawiła się [[Jinryuu]], znana już wcześniej [[Aldakor Esku|Aldakorowi]].
 
@@ -6,18 +9,16 @@ Jak się można domyślić, to ona jest tą odpowiedzialną za zniknięcie [[Tok
 
 Po rozbiciu obozu i przenocowaniu, Alvira zaprowadziła Aldakora i niezbyt chętnego do współpracy (choć ostatecznie się na nią zgadzającego) Kiana, do górniczej wioski nieopodal, gdzie udało nam się zlokalizować siły Krwiopijców w piwnicy tamtejszej karczmy. Czekała tam na nas Jinryuu we własnej osobie, choć po bardzo krótkiej konwersacji i wspólnym przypomnieniu sobie [[Zabójstwo Krwawego Joe|wydarzeń z Vans]], opuściła nas zostawiając w towarzystwie jej [[Joe Jonathan|wskrzeszonego męża]] - w jego nowej "ulepszonej" postaci.
 
-Walka z nim nie trwała długo, gdyż ten po otrzymaniu dosyć sporej ilości obrażeń w krótkim czasie, sparaliżował Aldakora i chwytając go nagle, zostawiając Kiana i Alvirę samych z hałasami dobiegającymi z korytarza którym tu weszli. 
+Walka z nim nie trwała długo, gdyż ten po otrzymaniu dosyć sporej ilości obrażeń w krótkim czasie, sparaliżował [[Aldakor Esku|Aldakora]] i chwytając go nagle, zostawiając [[Kian'Verion|Kiana]] i [[Alvira z wieczornych gwiazd|Alvirę]] samych z hałasami dobiegającymi z korytarza którym tu weszli. 
 
-Tymczasem [[Aldakor Esku|Al]] przebudzając się w ręce potwora zorientował się, że spadają z tej samej platformy na której przedchwilą walczyli, i korzystając z ostatnich chwil, prześlizgnął się stworzeniu na plecy i uskoczył by zminimalizować upadek. Tymczasem Joe teleportował się moment przed uderzeniem w ziemię i zniknął. Kilka dni zabrało Aldakorowi wspięcie się spowrotem na górę gigantycznego kamiennego słupa, lecz mimo wycięczenia udało mu się wkońcu to osiągnąć.
+>[!info]- Zaginiony [[Aldakor Esku|Aldakor]]
+>Tymczasem [[Aldakor Esku|Al]] przebudzając się w ręce potwora zorientował się, że spadają z tej samej platformy na której przed chwilą walczyli, i korzystając z ostatnich chwil, prześlizgnął się stworzeniu na plecy i uskoczył by zminimalizować upadek. Tymczasem [[Joe Jonathan|Joe]] teleportował się moment przed uderzeniem w ziemię i zniknął.
+>Kilka dni zabrało [[Aldakor Esku|Aldakorowi]] wspięcie się spowrotem na górę gigantycznego kamiennego słupa, lecz mimo wycięczenia udało mu się wkońcu to osiągnąć.
+>
+>W pobliskim mieście udało mu się zdobyć informacje na temat [[Jinryuu]]. Według "naocznych świadków" kilka tygodni wcześniej przyszła do niej jakaś kobieta z jednym okiem i zaoferowała, że powie jej jak osiągnąć nieskończoną moc. Rozmawiali o jakiejś [[Czarna mapa|kruczo-czarnej kartce papieru]], oraz to jak aktywować ją aby zobaczyć jej zawartość.
+>[[Aldakor Esku|Aldakor]] domyślając się o co chodzi postanowił ruszyć w rzeczone miejsce. Po całym dniu drogi postanowił odpocząć sobie w lesie, i zagrać coś na gitarze którą ukradł podczas szukania informacji.
+>>[!tip] Ciąg dalszy
+>>[[Fałszywy Bóg]]
 
-W pobliskim mieście udało mu się zdobyć informacje na temat [[Jinryuu]]. Według "naocznych świadków" kilka tygodni wcześniej przyszła do niej jakaś kobieta z jednym okiem i zaoferowała, że powie jej jak osiągnąć nieskończoną moc. Rozmawiali o jakiejś [[Czarna mapa|kruczo-czarnej kartce papieru]], oraz to jak aktywować ją aby zobaczyć jej zawartość. Domyślając się o co chodzi postanowił ruszyć w rzeczone miejsce. Po całym dniu drogi postanowił odpocząć sobie w lesie, i zagrać coś na gitarze którą ukradłeś podczas szukania informacji.
-
-## Fałszywy Bóg
-
-- Przybycie do "opuszczonej" posiadłości
-- Znalezienie i uwolnienie Tokk
-- Walka z Jinryuu
-- Dochodzenie wszystkich do siebie i "załamanie" Aldakora
-- Dyskusja Aldakora z Myhonessem
-- Dalsza kłótnia i zniknięcie Tokk z Kianem
-- Opuszczenie posiadłości przez Aldakora | Pojawienie się Tokk i Kiana
+>[!tip] Ciąg dalszy
+>[[Królik, wilk i debil]]

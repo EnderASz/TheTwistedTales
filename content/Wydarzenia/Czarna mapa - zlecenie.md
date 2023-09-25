@@ -8,4 +8,5 @@ Nie dostałeś informacji co to za mapa ani czemu jest mu tak potrzebna, ale nie
 
 [[Tokk]] jako wspomniany więzień.
 
-> Ciąg dalszy: [[Podróż do Vaskali]]
+>[!tip] Ciąg dalszy
+>[[Podróż do Vaskali]]
