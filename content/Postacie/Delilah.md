@@ -1,0 +1,1 @@
+![[Delilah.jpeg]]Demonica, która zawarła pakt z [[Ichada|Ichadą]]. Przyjmuje ona aktualnie forme ręki Ichady oraz pojawia się w umyśle króliczycy. Jej intencje co do Aveonianki są nieznane.
