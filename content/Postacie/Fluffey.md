@@ -1,3 +1,7 @@
+Zwierzak należący do [[Ichada|Ichady]]. 
+## Baby
 ![[Fluffey.jpg]]
 
-Zwierzak należący do [[Ichada|Ichady]]. Alke.
+
+## Big Boi
+![[Fluffey(BigBoi).jpg]]
