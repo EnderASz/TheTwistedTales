@@ -9,12 +9,14 @@ Nie widzi w tym nic niezwykłego i skupia się na dźwiękach swojego instrument
 
 Stały bywalec w [[Vans]], ze względu na dosyć przestępczy charakter tego miasta.
 
-> [!info]- Dzieciństwo u [[Illeas (Ilias)|Illeasa]]
-Aldakor nie wiedział skąd, ani kiedy przybył do Vans, a tym szczególniej ani kim jest, więc odnalałzszy go [[Illeas (Ilias)|Illeas]] postanowił zabrać go ze sobą i wyszkolić na najemnika. <br>
-Aldakor, podobnie jak inne porzucone dzieci, dorastał pracując jako najemnik [[Illeas (Ilias)|Illeasa]]. Został on przygarnięty w podobnym czasie co [[Leena Laun|Leena]], przez co często pracowali razem jako partnerzy, nawet po tym jak skończyli pracować bezpośrednio pod [[Illeas (Ilias)|Illeasem]]. Aldakor nigdy nie stracił jednak kontaktów ze swoim [[Illeas (Ilias)|dawnym mistrzem]], często pracując dla niego lub przebywając w jego [[Bar Illeasa|barze]].
+>[!info]- Dzieciństwo u [[Illeas (Ilias)|Illeasa]]
+>Aldakor nie wiedział skąd, ani kiedy przybył do Vans, a tym szczególniej ani kim jest, więc odnalałzszy go [[Illeas (Ilias)|Illeas]] postanowił zabrać go ze sobą i wyszkolić na najemnika.
+>
+>Aldakor, podobnie jak inne porzucone dzieci, dorastał pracując jako najemnik [[Illeas (Ilias)|Illeasa]]. Został on przygarnięty w podobnym czasie co [[Leena Laun|Leena]], przez co często pracowali razem jako partnerzy, nawet po tym jak skończyli pracować bezpośrednio pod [[Illeas (Ilias)|Illeasem]]. Aldakor nigdy nie stracił jednak kontaktów ze swoim [[Illeas (Ilias)|dawnym mistrzem]], często pracując dla niego lub przebywając w jego [[Bar Illeasa|barze]].
 
 >[!info]- Nowy cel - zniszczyć wszystko co Boskie
->[[Podróż do Vaskali]]
+># TODO
+>[[Fałszywy Bóg]]
 
 ## Catchphrases
 - "Życie to sztuka, teatr wypełniony aktorami. A ty jakbyś chciał odegrać swoją postać?"

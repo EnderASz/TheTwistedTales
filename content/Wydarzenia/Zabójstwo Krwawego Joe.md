@@ -1,7 +1,8 @@
 ---
 relations: [[Vans]]
 ---
-> Poprzednio: [[Zaginięcie egzotycznych jaj]]
+>[!tip] Poprzednio
+>[[Zaginięcie egzotycznych jaj]]
 
 Dzień później, po dotarciu [[Aldakor Esku|Aldakora]] oraz [[Ichada|króliczycy]] na miejsce, dosyć szybko okazało się, tym kogo aktualnie ścigamy jest nie kto inny, a była partnerka i stara dobra przyjaciółka od czasów młodości [[Aldakor Esku|Aldakora]] - [[Leena Laun]]. Ta jednak po chwili ponownie zostawia duet bez zdobyczy, dając jednak tym razem wskazówkę aby ci udali się do [[Joe Jonathan|Krwawego Joe]] oraz wspomina o nagrodzie jaką mogła by uzyskać za zabójstwo [[Aldakor Esku|Ala]], niezbyt wyjaśniając skąd ta nagroda wynika. 
 
@@ -18,4 +19,5 @@ Po tym, jak [[Leena Laun|Leena]] wyciągnęła [[Aldakor Esku|Aldakora]] i [[Ich
 Poruszając się po dachach budynków ruszył [[Aldakor Esku|on]] w stronę siedziby [[Illeas (Ilias)|Illeasa]], któremu obiecał sprzedać wszystkie trzy jaja. Niestety [[Illeas (Ilias)|Illeas]] będzie musiał się zadowolić tylko jednym z nich (wkońcu jedno z nich zwinęła [[Leena Laun|Leena]], a z drugiego wykluł się [[Fluffey]]), ale prawdopodobnie jeśli [[Aldakor Esku|Al]] obieca mu wykonać dla niego inną dodatkową robotę to z pewnością nie będzie zły.
 Parę godzin później [[Aldakor Esku|Aldakor]] dociera na dach budynku, znajdującego się w alejce z [[Bar Illeasa|barem]].
 
-> Ciąg dalszy: [[Podróż do fantastycznego świata]]
+>[!tip] Ciąg dalszy
+> [[Podróż do fantastycznego świata]]

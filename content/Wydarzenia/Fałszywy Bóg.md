@@ -1,8 +1,7 @@
 >[!tip] Poprzednio
-> - [[Podróż do Vaskali]]
-> - ...
+> - [[Podróż do Vaskalii]]
+> - [[Królik, Wilk i Debil]]
 
-- Spotkanie Aldakora
 - Przybycie do "opuszczonej" posiadłości
 - Znalezienie i uwolnienie [[Tokk]]
 - Walka z [[Jinryuu]]
@@ -12,6 +11,6 @@
 - Opuszczenie posiadłości przez Aldakora | Pojawienie się Tokk i Kiana
 - ...
 - "Przemowa" [[Kian'Verion|Kiana]]
->[!tip]- "Przemowa" [[Kian'Verion|Kiana]]
+>[!info]- "Przemowa" [[Kian'Verion|Kiana]]
 >![[hello.png]]
 >![[hello2.png]]
