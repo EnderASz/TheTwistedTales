@@ -1,1 +1,1 @@
-![[Mapa Świata.jpg]]
+![[Mapa Świata.png]]
