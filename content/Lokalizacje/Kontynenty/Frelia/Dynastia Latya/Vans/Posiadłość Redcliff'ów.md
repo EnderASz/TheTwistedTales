@@ -1,0 +1,1 @@
+Znajdująca się nieopodal [[Vans]], szlachecka posiadłość należąca do [[Hrabia Redcliff|Hrabiego Redcliffa]].

@@ -1,0 +1,1 @@
+Podwładna [[Aalynn (Ejlin)|Kapłanki]]

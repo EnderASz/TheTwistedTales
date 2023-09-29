@@ -1,0 +1,1 @@
+Gang najemników z Vans prowadzony pierwotnie przez [[Joe Jonathan|Joe Jonathana]]. Po jego śmierci prawdopodobnie interes przejęła jego żona [[Jinryuu]].
