@@ -1,4 +1,4 @@
-Zwierzak należący do [[Ichada|Ichady]]. 
+Zwierzak należący do [[Ichada|Ichady]], należący do gatunku Alke.
 ## Baby
 ![[Fluffey.jpg]]
 
