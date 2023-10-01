@@ -9,6 +9,8 @@ Kurwa drzewiec
 ![[Drzewiec.jpg]]
 
 ## "Znowu ty?"
+>[!info]- Skąd się tu wzięła Ichada? (Wyjaśnienie)
+>Tu umieścić wyjaśnienie skąd się wzięła tu [[Ichada]]
 [[Lilin]] [[Aalynn (Ejlin)]] [[Melifal]]
 
 ![[Drzewo_Przodkow.jpg]]
