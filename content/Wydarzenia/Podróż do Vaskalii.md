@@ -11,12 +11,14 @@ Po rozbiciu obozu i przenocowaniu, [[Alvira z Wieczornych Gwiazd|Alvira]] zaprow
 
 Walka z nim nie trwała długo, gdyż ten po otrzymaniu dosyć sporej ilości obrażeń w krótkim czasie, sparaliżował [[Aldakor Esku|Aldakora]] i chwytając go nagle, zostawiając [[Kian'Verion|Kiana]] i [[Alvira z Wieczornych Gwiazd|Alvirę]] samych z hałasami dobiegającymi z korytarza którym tu weszli. 
 
->[!info]- Zaginiony [[Aldakor Esku|Aldakor]]
+>[!info]- Dalszy los [[Aldakor Esku|Aldakora]]
 >Tymczasem [[Aldakor Esku|Al]] przebudzając się w ręce potwora zorientował się, że spadają z tej samej platformy na której przed chwilą walczyli, i korzystając z ostatnich chwil, prześlizgnął się stworzeniu na plecy i uskoczył by zminimalizować upadek. Tymczasem [[Joe Jonathan|Joe]] teleportował się moment przed uderzeniem w ziemię i zniknął.
->Kilka dni zabrało [[Aldakor Esku|Aldakorowi]] wspięcie się spowrotem na górę gigantycznego kamiennego słupa, lecz mimo wycięczenia udało mu się wkońcu to osiągnąć.
+>Kilka dni zabrało [[Aldakor Esku|Aldakorowi]] wspięcie się z powrotem na górę gigantycznego kamiennego słupa, lecz mimo wycięczenia udało mu się w końcu to osiągnąć.
 >
 >W pobliskim mieście udało mu się zdobyć informacje na temat [[Jinryuu]]. Według "naocznych świadków" kilka tygodni wcześniej przyszła do niej jakaś kobieta z jednym okiem i zaoferowała, że powie jej jak osiągnąć nieskończoną moc. Rozmawiali o jakiejś [[Czarna mapa|kruczo-czarnej kartce papieru]], oraz to jak aktywować ją aby zobaczyć jej zawartość.
->[[Aldakor Esku|Aldakor]] domyślając się o co chodzi postanowił ruszyć w rzeczone miejsce. Po całym dniu drogi postanowił odpocząć sobie w lesie, i zagrać coś na gitarze którą ukradł podczas szukania informacji.
+>[[Aldakor Esku|Aldakor]] domyślając się o co chodzi postanowił ruszyć w rzeczone miejsce.
+>
+>Po całym dniu drogi postanowił dać sobie dłuższy moment odpoczynku, i dla pewnego może nie rozbicia, ale urozmaicenia oblegającej go dookoła ciszy przygrać coś na niedawno (przy okazji szukania informacji) ~~skradzionej~~ znalezionej gitarze. Gdy znalazł odpowiednie do tego miejsce, odłożył swoje rzeczy i ułożył się na pobliskim kamieniu zagrywając pierwsze, delikatne akordy, które jak się okazało zwróciły uwagę znajdujących się pobliskich gęstwinach lasu postaci. Gdy ci, nie wiedząc jeszcze z kim mają do czynienia, zakradli się ku [[Aldakor Esku|Aldakorowi]], ukazali mu się jako już dobrze znani [[Myhones Ray Aktonn|Myhones]], [[Ichada]] oraz ta która ich tu prawdopodobnie sprowadziła, [[Alvira z Wieczornych Gwiazd|Alvira]]. Choć jak w następnych chwilach [[Aldakor Esku|Aldakor]] zwrócił uwagę, towarzyszył im również nieznany dotąd osobnik - [[Jesse]].
 >>[!tip] Ciąg dalszy
 >>[[Fałszywy Bóg]]
 

@@ -16,7 +16,7 @@ Poranek okazał się jednak równie intensywny jak dzień poprzedni, gdyż [[Ich
 
 Po drodze wóz zniszczony został przez płonące demony, jednak drużyna poradziła sobie z nimi bez większych problemów. [[Jesse]] jednak, po przejęciu od jednego z diabłów zaklętej włóczni, odkrył [[...|demoniczną rękawicę na swojej dłoni]]. Jako iż nie wydawała się ona zbyt problematyczna, czwórka podróżników ruszyła ponownie ku widniejącemu na horyzoncie dworowi. 
 
-Nagle spośród okolicznych drzew i krzewów dało się usłyszeć dźwięk gitary, co zwróciło ich uwagę. Gdy podeszli oni bliżej, grającym spokojną melodię okazał się uznawany za uwięzionego [[Aldakor Esku|Aldakor]], odpoczywający sobie jakby nigdy nic na kamieniu leżącym na środku polany. Zdobywszy przypadkowo piątego towarzysza, będącego jednocześnie jednym z celów wyprawy, udało się w końcu dojść do starego dworu kryjącego jeszcze więcej niespodziewanych sekretów. 
+Nagle spośród okolicznych drzew i krzewów dało się usłyszeć dźwięk gitary, co zwróciło ich uwagę. Zachowując pewną dozę ostrożności i z uwagi na dosyć późną porę, która utrudniała dokładne zidentyfikowanie źródła melodii, zakradli się w jego stronę. Gdy podeszli oni bliżej, grającym spokojną melodię okazał się uznawany za uwięzionego [[Aldakor Esku|Aldakor]], odpoczywający sobie jakby nigdy nic na kamieniu leżącym na środku polany. Zdobywszy przypadkowo piątego towarzysza, będącego jednocześnie jednym z celów wyprawy, postanowili oni rozbić w tym samym miejscu ognisko, a następnie przenocować, by rano móc kontynuować swoją dalszą wędrówkę.
 
 >[!tip] Ciąg dalszy
 >[[Fałszywy Bóg]]
