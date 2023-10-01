@@ -2,6 +2,7 @@
 > - [[Podróż do Vaskalii]]
 > - [[Królik, Wilk i Debil]]
 
+- Rozbicie ogniska i kolejna kość niezgody dla Myhonesa (tym razem z Aldakorem)
 - Przybycie do "opuszczonej" posiadłości
 - Znalezienie i uwolnienie [[Tokk]]
 - Walka z [[Jinryuu]]
