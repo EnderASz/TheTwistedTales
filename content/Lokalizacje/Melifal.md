@@ -1,1 +1,1 @@
-Świat w którym stworzenia ewoulują przez zdobywanie esencji z innych stworzeń. Przeniknął do naszego świata, 2 tygodnie drogi pieszo na zachód od Vans.
+Świat w którym stworzenia ewoluują przez zdobywanie esencji z innych stworzeń. Przeniknął do naszego świata, 2 tygodnie drogi pieszo na zachód od Vans.
