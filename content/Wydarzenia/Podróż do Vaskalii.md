@@ -1,5 +1,5 @@
 >[!tip] Poprzednie
->[[Czarna mapa - zlecenie]]
+>[[Czarna mapa - Baronat Rubitonnów]]
 
 [[Aldakor Esku|Aldakorowi]] i [[Tokk]] podczas swojej podróży udało się znaleźć wskazówkę dotyczącą tajemniczej czarnej mapy, którą [[Tokk]] w zwyczaju nosi pod swoją czapką. Owy trop prowadzi was gdzieś na [[Vaskala|Vaskalę]], krainę wiecznej zmarzliny. Siejąc okazjonalny chaos po drodze dotarliście na południe [[Królestwo Felnell|Felnell]], gdzie macie zamiar znaleźć statek który może zabrać was na [[Vaskala|Vaskalę]].
 

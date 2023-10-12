@@ -1,0 +1,1 @@
+Ziemia i leżąca na niej posiadłość należąca do [[Barowa Reina Rubitonn|Barowej Reiny Rubitton]]. Oddalony spory kawałek na północny zachód od [[Vans]].  
