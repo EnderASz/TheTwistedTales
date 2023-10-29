@@ -1,5 +1,5 @@
 >[!tip] Poprzednio
->- Królik i Debil (#TODO)
+>- [[Królik i Debil]]
 >- [[Podróż do Vaskalii]]
 
 Dwójka towarzyszy (tj. [[Alvira z Wieczornych Gwiazd|Alvira]] wraz z [[Kian'Verion|Kianem]]) przez pewien czas stawiała napastnikom wspólny opór, jednak w pewnym momencie [[Kian'Verion|Kian]] zniknął nagle bez śladu, pozostawiając [[Alvira z Wieczornych Gwiazd|Alvirę]] na pastwę losu. Ta, zszokowana nagłym obrotem spraw, z trudem dała radę powstrzymać bandytów i wydostała się z piwnicy. 
